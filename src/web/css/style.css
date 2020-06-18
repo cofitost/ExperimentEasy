@@ -7,4 +7,13 @@ input {
 
 h1 {
   color: blue;
+  padding: 2%;
+}
+
+form {
+  padding: 2%;
+}
+
+#login {
+  margin-top: 50px;
 }
